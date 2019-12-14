@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MSD_Group_Project:jar">
+    <output-path />
+    <root id="archive" name="MSD_Group_Project.jar">
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/redist/annotations-java8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/test/forms_rt-7.0.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="musicg-1.4.2.0" />
+      <element id="artifact" artifact-name="MSD_Group_Project" />
+    </root>
+  </artifact>
+</component>

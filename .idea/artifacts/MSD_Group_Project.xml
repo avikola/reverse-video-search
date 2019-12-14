@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MSD_Group_Project">
+    <output-path>$PROJECT_DIR$/out/artifacts/MSD_Group_Project</output-path>
+    <root id="archive" name="MSD_Group_Project.jar">
+      <element id="module-output" name="Reverse_Video_Search" />
+    </root>
+  </artifact>
+</component>
